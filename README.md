@@ -1,4 +1,4 @@
-# PyTorch-UDA
+# Domain Adaptation
 PyTorch implementations of Unsupervised Domain Adaptation Techniques:
 
  1. [Domain-Adversarial Training of Neural Networks - DANN](https://github.com/sachin-chhabra/PyTorch-DANN/)
